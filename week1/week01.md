@@ -14,6 +14,6 @@ This project demonstrates basic GNS3 setup including:
 ## IP Configuration
 Host1: 10.10.10.1  
 Host2: 10.10.10.2  
-
+![Topology](screenshots/photo1.png)
 ## Results
 Successful connectivity between hosts using ping command.
